@@ -1,0 +1,19 @@
+# V19 QA report
+
+- JavaScript syntax: PASS
+- HTML IDs: 115 checked; duplicate IDs: none
+- Browser console errors: none
+- Browser page errors: none
+- Interaction checks: {
+  "mobile_home_visible": true,
+  "nav_count": 5,
+  "nav_logo_loaded": true,
+  "home_icon_svg": true,
+  "app_icon_data_link": true,
+  "search_navigation": true,
+  "home_navigation": true,
+  "buy_path": true,
+  "pnl_after_partial_sale": true
+}
+- App icon assets: fomo-app-icon-192.png, fomo-app-icon-512.png, fomo-touch-icon.png
+- PWA manifest: manifest.webmanifest

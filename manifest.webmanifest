@@ -1,0 +1,22 @@
+{
+  "name": "Fomo Mobile Terminal",
+  "short_name": "Fomo",
+  "start_url": "./sharky_fomo_mobile_v19.html",
+  "display": "standalone",
+  "background_color": "#08080d",
+  "theme_color": "#08080d",
+  "icons": [
+    {
+      "src": "fomo-app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "fomo-app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
